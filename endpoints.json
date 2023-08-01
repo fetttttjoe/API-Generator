@@ -1,0 +1,17 @@
+[
+  {
+    "route": "/test",
+    "method": "GET",
+    "purpose": "Test endpoint"
+  },
+  {
+    "route": "/users",
+    "method": "POST",
+    "purpose": "Create a new user"
+  },
+  {
+    "route": "/users/:id",
+    "method": "GET",
+    "purpose": "Get user by ID"
+  }
+]
